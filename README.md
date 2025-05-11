@@ -87,7 +87,6 @@ Contributions are welcome! If you'd like to improve the program or fix any issue
 ![Decision Tree](screenshots/decision_tree.png)
 ![Feature Importance](screenshots/feature_importance.png)
 ![Confusion Matrix](screenshots/confusion_matrix.png)
-![Classification Report](screenshots/classification_report.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
