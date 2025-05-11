@@ -1,4 +1,4 @@
-# Salary
+# Salary Prediction Using Explainable Machine Learning
 
 ## Table of Contents
 - [Introduction](#introduction)
