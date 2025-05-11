@@ -84,16 +84,14 @@ Contributions are welcome! If you'd like to improve the program or fix any issue
 5. Open a Pull Request.
 
 ## Screenshots
-<table align="center">
-  <tr>
-    <td align="center"><img src="screenshots/decision_tree.png" width="45%"></td>
-    <td align="center"><img src="screenshots/feature_importance.png" width="45%"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/confusion_matrix.png" width="45%"></td>
-    <td align="center"><img src="screenshots/classification_report.png" width="45%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/decision_tree.png" width="45%" />
+  <img src="screenshots/feature_importance.png" width="45%" />
+</p>
+<p align="center">
+  <img src="screenshots/confusion_matrix.png" width="45%" />
+  <img src="screenshots/classification_report.png" width="45%" />
+</p>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
